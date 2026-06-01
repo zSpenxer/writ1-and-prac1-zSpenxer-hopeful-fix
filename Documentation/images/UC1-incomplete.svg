@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Bouml (http://bouml.free.fr/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="835" height="466" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g>
+	<ellipse fill="none" stroke="black" stroke-width="1" stroke-opacity="1" cx="68" cy="206" rx="6" ry="6" />
+	<line stroke="black" stroke-opacity="1" x1="57" y1="217" x2="79" y2="217" />
+	<line stroke="black" stroke-opacity="1" x1="68" y1="212" x2="68" y2="227" />
+	<line stroke="black" stroke-opacity="1" x1="68" y1="227" x2="58" y2="239" />
+	<line stroke="black" stroke-opacity="1" x1="68" y1="227" x2="78" y2="239" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" text-anchor="middle" x="70" y="251">Designer</text>
+</g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="585" y="259">[file content incorrect]</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="479" y="110">[file not found]</text>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="489" y="88">&lt;&lt;extend&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="619" y="234">&lt;&lt;extend&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="163">&lt;&lt;include&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="528" y="51">&lt;&lt;include&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="360" y="144">&lt;&lt;include&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="310" y="65">&lt;&lt;include&gt;&gt;</text>
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="536" cy="197" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="533" cy="194" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="435" cy="42" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="432" cy="39" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="616" cy="122" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="613" cy="119" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="774" cy="260" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="771" cy="257" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="260" cy="81" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="257" cy="78" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="239" cy="265" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="236" cy="262" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="225" cy="343" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="222" cy="340" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="166" cy="426" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="163" cy="423" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="394" cy="234" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="391" cy="231" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="696" cy="50" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="693" cy="47" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="787" cy="156" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="784" cy="153" rx="31" ry="15" />
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="389" y="65">Load Scene File</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="484" y="220">Parse Scene Data</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="111" y="449">Validate Scene File</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="169" y="290">Save Current Scene File</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="719" y="283">Report Parse Error</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="338" y="257">Display Scene Data</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="646" y="73">Ask for Filename</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="154" y="366">Close Current Scene File</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="545" y="147">Report File Error</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="750" y="179">Report Error</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="171" y="104">Display Scene File Information</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="100" y1="204" x2="234" y2="94" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="581" y1="105" x2="577" y2="97" />
+	<line stroke="black" stroke-opacity="1" x1="581" y1="105" x2="573" y2="108" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="464" y1="53" x2="581" y2="105" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="100" y1="237" x2="204" y2="255" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="501" y1="180" x2="497" y2="172" />
+	<line stroke="black" stroke-opacity="1" x1="501" y1="180" x2="493" y2="183" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="289" y1="91" x2="501" y2="180" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="772" y1="241" x2="780" y2="174" />
+	<line stroke="black" stroke-opacity="1" x1="781" y1="169" x2="774" y2="174" />
+	<line stroke="black" stroke-opacity="1" x1="781" y1="169" x2="786" y2="175" />
+	<line stroke="black" stroke-opacity="1" x1="774" y1="174" x2="786" y2="175" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="645" y1="125" x2="746" y2="144" />
+	<line stroke="black" stroke-opacity="1" x1="752" y1="146" x2="747" y2="138" />
+	<line stroke="black" stroke-opacity="1" x1="752" y1="146" x2="744" y2="150" />
+	<line stroke="black" stroke-opacity="1" x1="747" y1="138" x2="744" y2="150" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="739" y1="248" x2="734" y2="240" />
+	<line stroke="black" stroke-opacity="1" x1="739" y1="248" x2="731" y2="252" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="565" y1="202" x2="739" y2="248" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="661" y1="45" x2="655" y2="38" />
+	<line stroke="black" stroke-opacity="1" x1="661" y1="45" x2="654" y2="50" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="464" y1="40" x2="661" y2="45" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="400" y1="44" x2="392" y2="39" />
+	<line stroke="black" stroke-opacity="1" x1="400" y1="44" x2="395" y2="51" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="289" y1="69" x2="400" y2="44" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="100" y1="253" x2="200" y2="324" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="377" y1="215" x2="377" y2="206" />
+	<line stroke="black" stroke-opacity="1" x1="377" y1="215" x2="368" y2="214" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="271" y1="94" x2="377" y2="215" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="85" y1="264" x2="154" y2="407" />
+</g>
+<g>
+	<ellipse fill="none" stroke="black" stroke-width="1" stroke-opacity="1" cx="68" cy="206" rx="6" ry="6" />
+	<line stroke="black" stroke-opacity="1" x1="57" y1="217" x2="79" y2="217" />
+	<line stroke="black" stroke-opacity="1" x1="68" y1="212" x2="68" y2="227" />
+	<line stroke="black" stroke-opacity="1" x1="68" y1="227" x2="58" y2="239" />
+	<line stroke="black" stroke-opacity="1" x1="68" y1="227" x2="78" y2="239" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" text-anchor="middle" x="70" y="251">Designer</text>
+</g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="585" y="259">[file content incorrect]</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="479" y="110">[file not found]</text>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="489" y="88">&lt;&lt;extend&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="619" y="234">&lt;&lt;extend&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="163">&lt;&lt;include&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="528" y="51">&lt;&lt;include&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="360" y="144">&lt;&lt;include&gt;&gt;</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="310" y="65">&lt;&lt;include&gt;&gt;</text>
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="536" cy="197" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="533" cy="194" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="435" cy="42" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="432" cy="39" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="616" cy="122" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="613" cy="119" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="774" cy="260" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="771" cy="257" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="260" cy="81" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="257" cy="78" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="239" cy="265" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="236" cy="262" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="225" cy="343" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="222" cy="340" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="166" cy="426" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="163" cy="423" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="394" cy="234" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="391" cy="231" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="696" cy="50" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="693" cy="47" rx="31" ry="15" />
+</g>
+<g>
+	<ellipse fill="#cbcbcb" stroke="none" cx="787" cy="156" rx="31" ry="15" />
+	<ellipse fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" cx="784" cy="153" rx="31" ry="15" />
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="389" y="65">Load Scene File</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="484" y="220">Parse Scene Data</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="111" y="449">Validate Scene File</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="169" y="290">Save Current Scene File</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="719" y="283">Report Parse Error</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="338" y="257">Display Scene Data</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="646" y="73">Ask for Filename</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="154" y="366">Close Current Scene File</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="545" y="147">Report File Error</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="750" y="179">Report Error</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="171" y="104">Display Scene File Information</text>
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="100" y1="204" x2="234" y2="94" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="581" y1="105" x2="577" y2="97" />
+	<line stroke="black" stroke-opacity="1" x1="581" y1="105" x2="573" y2="108" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="464" y1="53" x2="581" y2="105" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="100" y1="237" x2="204" y2="255" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="501" y1="180" x2="497" y2="172" />
+	<line stroke="black" stroke-opacity="1" x1="501" y1="180" x2="493" y2="183" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="289" y1="91" x2="501" y2="180" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="772" y1="241" x2="780" y2="174" />
+	<line stroke="black" stroke-opacity="1" x1="781" y1="169" x2="774" y2="174" />
+	<line stroke="black" stroke-opacity="1" x1="781" y1="169" x2="786" y2="175" />
+	<line stroke="black" stroke-opacity="1" x1="774" y1="174" x2="786" y2="175" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="645" y1="125" x2="746" y2="144" />
+	<line stroke="black" stroke-opacity="1" x1="752" y1="146" x2="747" y2="138" />
+	<line stroke="black" stroke-opacity="1" x1="752" y1="146" x2="744" y2="150" />
+	<line stroke="black" stroke-opacity="1" x1="747" y1="138" x2="744" y2="150" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="739" y1="248" x2="734" y2="240" />
+	<line stroke="black" stroke-opacity="1" x1="739" y1="248" x2="731" y2="252" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="565" y1="202" x2="739" y2="248" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="661" y1="45" x2="655" y2="38" />
+	<line stroke="black" stroke-opacity="1" x1="661" y1="45" x2="654" y2="50" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="464" y1="40" x2="661" y2="45" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="400" y1="44" x2="392" y2="39" />
+	<line stroke="black" stroke-opacity="1" x1="400" y1="44" x2="395" y2="51" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="289" y1="69" x2="400" y2="44" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="100" y1="253" x2="200" y2="324" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="377" y1="215" x2="377" y2="206" />
+	<line stroke="black" stroke-opacity="1" x1="377" y1="215" x2="368" y2="214" />
+	<line stroke-dasharray="4,4" stroke="black" stroke-opacity="1" x1="271" y1="94" x2="377" y2="215" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="85" y1="264" x2="154" y2="407" />
+</g>
+</svg>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Bouml (http://bouml.free.fr/) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="499" height="821" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="368" y="85" width="3" height="49" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="308" y="131" width="63" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="304" y="81" width="64" height="50" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="336" y="92">SceneFile</text>
+	<line stroke="black" stroke-opacity="1" x1="304" y1="102" x2="368" y2="102" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="308" y="113">filename</text>
+	<line stroke="black" stroke-opacity="1" x1="304" y1="123" x2="368" y2="123" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="356" y="352" width="3" height="87" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="320" y="436" width="39" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="316" y="348" width="40" height="88" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="336" y="359">Scale</text>
+	<line stroke="black" stroke-opacity="1" x1="316" y1="369" x2="356" y2="369" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="320" y="380">x</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="320" y="399">y</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="320" y="418">z</text>
+	<line stroke="black" stroke-opacity="1" x1="316" y1="428" x2="356" y2="428" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="181" y="276" width="3" height="239" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="125" y="512" width="59" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="121" y="272" width="60" height="240" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="151" y="283">Rotation</text>
+	<line stroke="black" stroke-opacity="1" x1="121" y1="293" x2="181" y2="293" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="304">qx</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="323">qy</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="342">qz</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="361">qw</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="380">axisX</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="399">axisY</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="418">axisZ</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="437">angle</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="456">angleX</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="475">angleY</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="494">angleZ</text>
+	<line stroke="black" stroke-opacity="1" x1="121" y1="504" x2="181" y2="504" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="221" y="640" width="3" height="87" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="171" y="724" width="53" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="167" y="636" width="54" height="88" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="194" y="647">Node</text>
+	<line stroke="black" stroke-opacity="1" x1="167" y1="657" x2="221" y2="657" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="171" y="668">name</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="171" y="687">id</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="171" y="706">isTarget</text>
+	<line stroke="black" stroke-opacity="1" x1="167" y1="716" x2="221" y2="716" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="387" y="181" width="3" height="105" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="289" y="283" width="101" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="285" y="177" width="102" height="132" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="336" y="188">Scene</text>
+	<line stroke="black" stroke-opacity="1" x1="285" y1="198" x2="387" y2="198" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="209">id:String</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="228">formatVersion:String</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="247">minOgreVersion:String</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="266">author:String</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="285">Camera</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="304">Light</text>
+	<line stroke="black" stroke-opacity="1" x1="285" y1="276" x2="387" y2="276" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="272" y="376" width="3" height="35" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="230" y="408" width="45" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="226" y="372" width="46" height="36" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="249" y="383">Nodes</text>
+	<line stroke="black" stroke-opacity="1" x1="226" y1="393" x2="272" y2="393" />
+	<line stroke="black" stroke-opacity="1" x1="226" y1="401" x2="272" y2="401" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="483" y="190" width="3" height="87" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="435" y="274" width="51" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="431" y="186" width="52" height="88" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="457" y="197">Postion</text>
+	<line stroke="black" stroke-opacity="1" x1="431" y1="207" x2="483" y2="207" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="435" y="218">x</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="435" y="237">y</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="435" y="256">z</text>
+	<line stroke="black" stroke-opacity="1" x1="431" y1="266" x2="483" y2="266" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="122" y="593" width="3" height="181" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="44" y="771" width="81" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="40" y="589" width="82" height="182" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="81" y="600">Entity</text>
+	<line stroke="black" stroke-opacity="1" x1="40" y1="610" x2="122" y2="610" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="621">name</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="640">id</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="659">visible</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="678">meshfile</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="697">material</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="716">static</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="735">instanced</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="754">castShadows</text>
+	<line stroke="black" stroke-opacity="1" x1="40" y1="764" x2="122" y2="764" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="241" y1="412" x2="241" y2="557" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="241,412 247,418 241,424 235,418" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="430" y1="232" x2="424" y2="226" />
+	<line stroke="black" stroke-opacity="1" x1="430" y1="232" x2="424" y2="238" />
+	<line stroke="black" stroke-opacity="1" x1="391" y1="232" x2="430" y2="232" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="391,232 397,226 403,232 397,238" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="338" y1="347" x2="344" y2="341" />
+	<line stroke="black" stroke-opacity="1" x1="338" y1="347" x2="332" y2="341" />
+	<line stroke="black" stroke-opacity="1" x1="338" y1="287" x2="338" y2="347" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="338,287 344,293 338,299 332,293" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="338" y1="176" x2="344" y2="170" />
+	<line stroke="black" stroke-opacity="1" x1="338" y1="176" x2="332" y2="170" />
+	<line stroke="black" stroke-opacity="1" x1="338" y1="135" x2="338" y2="176" />
+	<polygon fill="#000000" stroke="black" stroke-opacity="1" points="338,135 344,141 338,147 332,141" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="284" y1="232" x2="154" y2="232" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="284,232 278,238 272,232 278,226" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="225" y1="651" x2="459" y2="651" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="225,651 231,645 237,651 231,657" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="169" y1="516" x2="163" y2="522" />
+	<line stroke="black" stroke-opacity="1" x1="169" y1="516" x2="175" y2="521" />
+	<line stroke="black" stroke-opacity="1" x1="175" y1="635" x2="169" y2="516" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="175,635 168,629 174,623 180,628" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="315" y1="396" x2="307" y2="391" />
+	<line stroke="black" stroke-opacity="1" x1="315" y1="396" x2="310" y2="403" />
+	<line stroke="black" stroke-opacity="1" x1="276" y1="405" x2="315" y2="396" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="276,405 280,397 287,402 283,409" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="244" y1="371" x2="247" y2="42" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="244,371 238,364 244,359 250,365" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="216" y1="635" x2="216" y2="598" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="216,635 210,629 216,623 222,629" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="185" y1="393" x2="191" y2="398" />
+	<line stroke="black" stroke-opacity="1" x1="185" y1="393" x2="190" y2="386" />
+	<line stroke="black" stroke-opacity="1" x1="225" y1="392" x2="185" y2="393" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="225,392 219,398 213,392 218,386" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="241" y1="557" x2="204" y2="557" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="153" y1="271" x2="159" y2="265" />
+	<line stroke="black" stroke-opacity="1" x1="153" y1="271" x2="147" y2="264" />
+	<line stroke="black" stroke-opacity="1" x1="154" y1="232" x2="153" y2="271" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="247" y1="42" x2="461" y2="42" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="459" y1="278" x2="453" y2="284" />
+	<line stroke="black" stroke-opacity="1" x1="459" y1="278" x2="465" y2="284" />
+	<line stroke="black" stroke-opacity="1" x1="459" y1="651" x2="459" y2="278" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="216" y1="598" x2="331" y2="598" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="459" y1="185" x2="465" y2="179" />
+	<line stroke="black" stroke-opacity="1" x1="459" y1="185" x2="453" y2="178" />
+	<line stroke="black" stroke-opacity="1" x1="461" y1="42" x2="459" y2="185" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="331" y1="440" x2="325" y2="446" />
+	<line stroke="black" stroke-opacity="1" x1="331" y1="440" x2="337" y2="446" />
+	<line stroke="black" stroke-opacity="1" x1="331" y1="598" x2="331" y2="440" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="204" y1="635" x2="210" y2="629" />
+	<line stroke="black" stroke-opacity="1" x1="204" y1="635" x2="198" y2="629" />
+	<line stroke="black" stroke-opacity="1" x1="204" y1="557" x2="204" y2="635" />
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="195" y="410">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="136" y="258">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="298" y="411">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="152" y="533">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="321" y="163">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="187" y="622">*</text>
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="368" y="85" width="3" height="49" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="308" y="131" width="63" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="304" y="81" width="64" height="50" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="336" y="92">SceneFile</text>
+	<line stroke="black" stroke-opacity="1" x1="304" y1="102" x2="368" y2="102" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="308" y="113">filename</text>
+	<line stroke="black" stroke-opacity="1" x1="304" y1="123" x2="368" y2="123" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="356" y="352" width="3" height="87" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="320" y="436" width="39" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="316" y="348" width="40" height="88" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="336" y="359">Scale</text>
+	<line stroke="black" stroke-opacity="1" x1="316" y1="369" x2="356" y2="369" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="320" y="380">x</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="320" y="399">y</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="320" y="418">z</text>
+	<line stroke="black" stroke-opacity="1" x1="316" y1="428" x2="356" y2="428" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="181" y="276" width="3" height="239" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="125" y="512" width="59" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="121" y="272" width="60" height="240" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="151" y="283">Rotation</text>
+	<line stroke="black" stroke-opacity="1" x1="121" y1="293" x2="181" y2="293" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="304">qx</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="323">qy</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="342">qz</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="361">qw</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="380">axisX</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="399">axisY</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="418">axisZ</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="437">angle</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="456">angleX</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="475">angleY</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="125" y="494">angleZ</text>
+	<line stroke="black" stroke-opacity="1" x1="121" y1="504" x2="181" y2="504" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="221" y="640" width="3" height="87" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="171" y="724" width="53" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="167" y="636" width="54" height="88" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="194" y="647">Node</text>
+	<line stroke="black" stroke-opacity="1" x1="167" y1="657" x2="221" y2="657" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="171" y="668">name</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="171" y="687">id</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="171" y="706">isTarget</text>
+	<line stroke="black" stroke-opacity="1" x1="167" y1="716" x2="221" y2="716" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="387" y="181" width="3" height="105" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="289" y="283" width="101" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="285" y="177" width="102" height="106" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="336" y="188">Scene</text>
+	<line stroke="black" stroke-opacity="1" x1="285" y1="198" x2="387" y2="198" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="209">id:String</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="228">formatVersion:String</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="247">minOgreVersion:String</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="266">author:String</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="285">Camera</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="289" y="304">Light</text>
+	<line stroke="black" stroke-opacity="1" x1="285" y1="276" x2="387" y2="276" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="272" y="376" width="3" height="35" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="230" y="408" width="45" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="226" y="372" width="46" height="36" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="249" y="383">Nodes</text>
+	<line stroke="black" stroke-opacity="1" x1="226" y1="393" x2="272" y2="393" />
+	<line stroke="black" stroke-opacity="1" x1="226" y1="401" x2="272" y2="401" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="483" y="190" width="3" height="87" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="435" y="274" width="51" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="431" y="186" width="52" height="88" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="457" y="197">Postion</text>
+	<line stroke="black" stroke-opacity="1" x1="431" y1="207" x2="483" y2="207" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="435" y="218">x</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="435" y="237">y</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="435" y="256">z</text>
+	<line stroke="black" stroke-opacity="1" x1="431" y1="266" x2="483" y2="266" />
+</g>
+<g>
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="122" y="593" width="3" height="181" />
+	<rect fill="#cbcbcb" stroke="none" stroke-opacity="1" x="44" y="771" width="81" height="3" />
+	<rect fill="#ffffc0" stroke="black" stroke-width="1" stroke-opacity="1" x="40" y="589" width="82" height="182" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" font-weight="bold" text-anchor="middle" x="81" y="600">Entity</text>
+	<line stroke="black" stroke-opacity="1" x1="40" y1="610" x2="122" y2="610" />
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="621">name</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="640">id</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="659">visible</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="678">meshfile</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="697">material</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="716">static</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="735">instanced</text>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="44" y="754">castShadows</text>
+	<line stroke="black" stroke-opacity="1" x1="40" y1="764" x2="122" y2="764" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="241" y1="412" x2="241" y2="557" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="241,412 247,418 241,424 235,418" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="430" y1="232" x2="424" y2="226" />
+	<line stroke="black" stroke-opacity="1" x1="430" y1="232" x2="424" y2="238" />
+	<line stroke="black" stroke-opacity="1" x1="391" y1="232" x2="430" y2="232" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="391,232 397,226 403,232 397,238" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="338" y1="347" x2="344" y2="341" />
+	<line stroke="black" stroke-opacity="1" x1="338" y1="347" x2="332" y2="341" />
+	<line stroke="black" stroke-opacity="1" x1="338" y1="287" x2="338" y2="347" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="338,287 344,293 338,299 332,293" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="338" y1="176" x2="344" y2="170" />
+	<line stroke="black" stroke-opacity="1" x1="338" y1="176" x2="332" y2="170" />
+	<line stroke="black" stroke-opacity="1" x1="338" y1="135" x2="338" y2="176" />
+	<polygon fill="#000000" stroke="black" stroke-opacity="1" points="338,135 344,141 338,147 332,141" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="284" y1="232" x2="154" y2="232" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="284,232 278,238 272,232 278,226" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="225" y1="651" x2="459" y2="651" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="225,651 231,645 237,651 231,657" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="169" y1="516" x2="163" y2="522" />
+	<line stroke="black" stroke-opacity="1" x1="169" y1="516" x2="175" y2="521" />
+	<line stroke="black" stroke-opacity="1" x1="175" y1="635" x2="169" y2="516" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="175,635 168,629 174,623 180,628" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="315" y1="396" x2="307" y2="391" />
+	<line stroke="black" stroke-opacity="1" x1="315" y1="396" x2="310" y2="403" />
+	<line stroke="black" stroke-opacity="1" x1="276" y1="405" x2="315" y2="396" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="276,405 280,397 287,402 283,409" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="244" y1="371" x2="247" y2="42" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="244,371 238,364 244,359 250,365" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="216" y1="635" x2="216" y2="598" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="216,635 210,629 216,623 222,629" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="185" y1="393" x2="191" y2="398" />
+	<line stroke="black" stroke-opacity="1" x1="185" y1="393" x2="190" y2="386" />
+	<line stroke="black" stroke-opacity="1" x1="225" y1="392" x2="185" y2="393" />
+	<polygon fill="#ffffff" stroke="black" stroke-opacity="1" points="225,392 219,398 213,392 218,386" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="241" y1="557" x2="204" y2="557" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="153" y1="271" x2="159" y2="265" />
+	<line stroke="black" stroke-opacity="1" x1="153" y1="271" x2="147" y2="264" />
+	<line stroke="black" stroke-opacity="1" x1="154" y1="232" x2="153" y2="271" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="247" y1="42" x2="461" y2="42" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="459" y1="278" x2="453" y2="284" />
+	<line stroke="black" stroke-opacity="1" x1="459" y1="278" x2="465" y2="284" />
+	<line stroke="black" stroke-opacity="1" x1="459" y1="651" x2="459" y2="278" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="216" y1="598" x2="331" y2="598" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="459" y1="185" x2="465" y2="179" />
+	<line stroke="black" stroke-opacity="1" x1="459" y1="185" x2="453" y2="178" />
+	<line stroke="black" stroke-opacity="1" x1="461" y1="42" x2="459" y2="185" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="331" y1="440" x2="325" y2="446" />
+	<line stroke="black" stroke-opacity="1" x1="331" y1="440" x2="337" y2="446" />
+	<line stroke="black" stroke-opacity="1" x1="331" y1="598" x2="331" y2="440" />
+</g>
+<g>
+	<line stroke="black" stroke-opacity="1" x1="204" y1="635" x2="210" y2="629" />
+	<line stroke="black" stroke-opacity="1" x1="204" y1="635" x2="198" y2="629" />
+	<line stroke="black" stroke-opacity="1" x1="204" y1="557" x2="204" y2="635" />
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="195" y="410">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="136" y="258">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="298" y="411">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="152" y="533">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="321" y="163">1</text>
+</g>
+<g>
+	<text font-family="Sans Serif" font-size="9" fill="#000000" xml:space="preserve" x="187" y="622">*</text>
+</g>
+</svg>

@@ -1,0 +1,6 @@
+# Ignore Generated output files!
+
+*.docx
+*.pdf
+*.doc
+*.html
